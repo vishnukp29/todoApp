@@ -9,7 +9,7 @@
 - [License](#license)
 
 ## Introduction
-  Simple todo list using react. in this application users can add and delete their notes.
+  Simple todo list using react. in this application users can add and, edit and delete their notes.
 
 ## Run
 
